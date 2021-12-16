@@ -21,8 +21,8 @@ The Banking Database software is a Java only program. There are four classes tha
  
 # Screenshot
 
-
+<img src = "BankScreenshot.PNG" width= "1000" >
  
  # UML
  
-
+ <img src = "BankProjectUML.PNG" width= "500" >
